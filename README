@@ -1,3 +1,19 @@
+# xv6: Copy & Paste
+## Summary
+Adds a copy & paste functionality into xv6.
+
+## Use
+| Button          | Action                      |
+|-----------------|-----------------------------|
+| SHIFT + ALT + C | Copy-Paste Mode             |
+| W               | Move Up                     |
+| A               | Move Left                   |
+| S               | Move Down                   |
+| D               | Move Right                  |
+| Q               | Selection Mode              |
+| E               | Exit Selection (Save Select)|
+
+## About xv6
 xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
 Version 6 (v6).  xv6 loosely follows the structure and style of v6,
 but is implemented for a modern x86-based multiprocessor using ANSI C.
