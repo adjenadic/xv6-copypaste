@@ -3,15 +3,16 @@
 Adds a copy & paste functionality into xv6.
 
 ## Use
-| Button          | Action                      |
-|-----------------|-----------------------------|
-| SHIFT + ALT + C | Copy-Paste Mode             |
-| W               | Move Up                     |
-| A               | Move Left                   |
-| S               | Move Down                   |
-| D               | Move Right                  |
-| Q               | Selection Mode              |
-| E               | Exit Selection (Save Select)|
+| Button          | Action                            |
+|-----------------|-----------------------------------|
+| SHIFT + ALT + C | Copy-Paste Mode                   |
+| W               | Move Up                           |
+| A               | Move Left                         |
+| S               | Move Down                         |
+| D               | Move Right                        |
+| Q               | Selection Mode                    |
+| E               | Exit Selection (Save Selection)   |
+| SHIFT + ALT + P | Paste Selection into the Console  |
 
 ## About xv6
 xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
