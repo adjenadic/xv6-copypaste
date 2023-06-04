@@ -1,4 +1,4 @@
-# xv6: Copy & Paste
+# xv6: Copy & Paste Functionality
 ## Summary
 Adds a copy & paste functionality into xv6.
 
